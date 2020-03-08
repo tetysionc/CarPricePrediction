@@ -1,2 +1,1 @@
-# CarPricePrediction
-How to predict car's price
+# How to predict car's price
